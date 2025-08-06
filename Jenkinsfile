@@ -15,7 +15,7 @@ pipeline{
         }
         stage('Checkout from Git'){
             steps{
-                git branch: 'master', url: 'https://github.com/Dinesh-Arivu/2048-Game-DevSecOps-Approach-Deploying-on-Docker-and-Kubernetes-with-Jenkins-CI-CD.git'
+                git branch: 'main', url: 'https://github.com/Dinesh-Arivu/2048-Game-DevSecOps-Approach-Deploying-on-Docker-and-Kubernetes-with-Jenkins-CI-CD.git'
             }
         }
         stage("Sonarqube Analysis "){
