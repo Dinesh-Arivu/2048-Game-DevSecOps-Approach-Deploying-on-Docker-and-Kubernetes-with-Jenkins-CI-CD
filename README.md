@@ -1,3 +1,7 @@
+### DevSecOps Project Diagram:
+<img width="565" height="320" alt="2048 Game DevSecOps Approach- Deploying on Docker and Kubernetes with Jenkins CI CD" src="https://github.com/user-attachments/assets/9f376559-670d-417c-8295-f5d49f977135" />
+
+
 # Getting Started with 2048
 
 This game (2048) was built using **React** and **TypeScript**. The unique part of this example is animations. The animations in React aren't that straightforward, so I hope you can learn something new from it.
